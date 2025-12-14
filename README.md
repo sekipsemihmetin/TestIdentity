@@ -179,19 +179,6 @@ TestIdentity/
 
 ---
 
-## 🤝 Katkıda Bulunma / Contributing
-
-1. Fork
-2. Feature branch oluştur
-3. Commit
-4. Push
-5. Pull Request
-
----
-
-
-
----
 
 ## ⭐ Star Vermeyi Unutmayın
 
